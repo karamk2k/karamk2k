@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Karam Abumuslem, a passionate Full Stack Developer based in Amman, Jordan. I specialize in building scalable and efficient web applications using PHP, Laravel, React, MySQL, and JavaScript.<br><br>I've gained hands-on experience through internships at AppTrainers and Clever Mind POB, where I worked on full-stack projects following Agile/Scrum methodologies. I enjoy working on clean, maintainable code and love tackling new challenges to enhance performance and user experience.
+Hi, I'm Karam Abumuslem, a passionate Full Stack Developer based in Amman, Jordan. I specialize in building scalable and efficient web applications using PHP, Laravel, React, MySQL, and JavaScript.<br><br>I've gained hands-on experience as a Full Stack Developer at AppTrainers and Clever Mind POB, where I contributed to full-stack projects following Agile/Scrum methodologies. I take pride in writing clean, maintainable code and enjoy tackling new challenges to improve performance and user experience. I enjoy working on clean, maintainable code and love tackling new challenges to enhance performance and user experience.
 
 
 ## 🌐 Socials:
